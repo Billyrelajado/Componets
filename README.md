@@ -1,2 +1,2 @@
-# bast
-ProjectBast
+# JCO
+Share component uses
